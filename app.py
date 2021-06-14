@@ -3,6 +3,8 @@ import streamlit as st
 import plotly.express as px
 from sklearn.ensemble import RandomForestRegressor
 
+# Teste
+
 # função para carregar o dataset
 @st.cache
 def get_data():
